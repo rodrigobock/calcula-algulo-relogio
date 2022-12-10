@@ -26,3 +26,6 @@ Resposta: public int retornaAnguloRelogio(int hora, int minuto) {
 
 IDE Utilizada: IntelliJ na versão mais recente.
 Java: 11
+
+
+Imagem com rotina de teste em imagens/execucaoTeste.png

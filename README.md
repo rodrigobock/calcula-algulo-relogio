@@ -22,3 +22,7 @@ int retornaAnguloRelogio(int hora, int minuto);
 4.Caso tenhas alguma dúvida, tome a decisão que julgarser a melhor.
 Resposta: public int retornaAnguloRelogio(int hora, int minuto) {
 // Implementar o restante do método abaixo
+
+
+IDE Utilizada: IntelliJ na versão mais recente.
+Java: 11
